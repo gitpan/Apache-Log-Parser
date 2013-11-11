@@ -8,6 +8,7 @@ README.md
 bin/analyze_apache_logs
 cpanfile
 ex/benchmark.pl
+ex/example.txt
 lib/Apache/Log/Parser.pm
 t/00_compile.t
 t/parse.t
